@@ -1,6 +1,3 @@
-# new feature
-# Tags: optional
-
 Feature: beatport search
 
   Scenario: Validate search results

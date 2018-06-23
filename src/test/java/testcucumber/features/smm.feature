@@ -1,4 +1,4 @@
-Feature: techhouse@google
+Feature: techhouse
 
   Scenario: Find tech house query results
     Given User navigates to google search
